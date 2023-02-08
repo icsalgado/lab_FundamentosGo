@@ -1,8 +1,8 @@
 # Lab Project - GO Fundamentals
 
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50px" align="center"> <a href=""> Project Certificate</a> -
-<a href="">Course Certificate</a> -
-<a href="" target="_blank">Challenge</a>
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50px" align="center"> <a href="https://hermes.digitalinnovation.one/certificates/DB9C7D29.pdf"> Project Certificate</a> -
+<a href="https://hermes.digitalinnovation.one/certificates/93AA2915.pdf">Course Certificate</a> -
+<a href="https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EZAI09NjiDJIttXmYduDl4wBFGoCxwh_N3YtyLW8M9epsw?e=cRRvKu" target="_blank">Challenge</a>
 
 <br>
 
